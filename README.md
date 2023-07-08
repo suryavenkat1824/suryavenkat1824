@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/suryavenkat1824?tab=repositories](https://suryavenkat-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Surya Venkat Portfolio](https://suryavenkat-portfolio.netlify.app/)
 
 - 📫 How to reach me **suryavenkat1824@gmail.com**
 
