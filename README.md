@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Surya Venkat</h1>
-<h3 align="center">A Frontend Web developer</h3>
+<h3 align="center">A MERN developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryavenkat1824&label=Profile%20views&color=0e75b6&style=flat" alt="suryavenkat1824" /> </p>
 
